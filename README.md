@@ -1,1 +1,1 @@
-Sometimes I run small coding experiments to better understand the dynamics of a situation. It is an attempt to keep myself honest and skeptical.  
+Sometimes I run small experiments to better understand the dynamics of a system. These projects are an attempt to keep myself honest and skeptical while honing intuition.  
